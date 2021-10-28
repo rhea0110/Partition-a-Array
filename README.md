@@ -1,0 +1,2 @@
+# Partition-a-Array
+Given a randomly ordered array (arr) of n elements, function partitionArray(int arr[], int n, int x) partition the elements into two subsets such that elements &lt;= x are in left subset and elements > x are in the right subset.  Initial code of partitionArray(int arr[], int n, int x) which is given fails in some test cases. Identify those test cases and make the necessary changes in the function so that it gives the desired output in all the cases.  Constraints : Don't rewrite the function only make the required changes in the given code.
